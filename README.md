@@ -1,8 +1,7 @@
 # Pizza-Sales-Analytics-Using-Sql-and-PowerBI
 
 ## Abstract
-The objective of this project is to analyze key indicators for our pizza sales data to gain
-insights into our bussiness performance.
+The objective of this project is to analyze key indicators for our pizza sales data to gain insights into our business performance Using SQL and Power BI to create a dynamic dashboard that allows sales teams to visualize and analyze sales data for pizza, customer segments, and time to optimize sales strategy, forecast sales, and identify growth opportunities.
 ## Overview of the datasets:
 For this project there a csv file for the dataset
   - Pizza Sales
